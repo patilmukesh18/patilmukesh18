@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh Patil</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/patilmukesh18/patilmukesh18/assets/114940231/c99f4c9f-bf25-49f9-b0a3-846aa2aa4a5e">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 - 🌱 I’m currently learning **Data Science Course**
 
