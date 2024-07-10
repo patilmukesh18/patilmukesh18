@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/patilmukesh18/patilmukesh18.github.io](https://github.com/patilmukesh18/patilmukesh18.github.io)
+- 👨‍💻 All of my projects are available at [(https://patilmukesh18.github.io)](https://patilmukesh18.github.io)
 
 - 📫 How to reach me **patil.mukesh.sharad@gmail.com**
 
